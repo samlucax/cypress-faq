@@ -1,7 +1,7 @@
 Quando executar o comando npx cypress open, e ocorrer um erro semelhante a esse: Failed to deserialize the v8 snapshot blob.
 
 
- <img  src="src/assets/failedtodeserializethev8snapshotblob.png">
+ <img widht="768" src="src/assets/failedtodeserializethev8snapshotblob.png">
 
 
 Executar o seguinte comando npx cypress install --force 
