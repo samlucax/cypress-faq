@@ -1,4 +1,4 @@
-Quando executar o comando `npx cypress open`, e ocorrer um erro semelhante a esse: Failed to deserialize the v8 snapshot blob.
+Quando executar o comando `npx cypress open`, e ocorrer um erro semelhante a esse: **Failed to deserialize the v8 snapshot blob**.
 
 ![failed serialize v8 snapshot](https://github.com/adsguilherme/cypress-faq/blob/main/src/assets/failedtodeserializethev8snapshotblob.png)
 
