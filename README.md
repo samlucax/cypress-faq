@@ -30,6 +30,7 @@ Um guia com as principais perguntas (e respostas) sobre o Cypress
 - [Terminal com Oh My Zsh - Rocketseat](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/)
 - [Primeiro pull request no GitHub](https://www.youtube.com/watch?v=Du04jBWrv4A&ab_channel=Filhodanuvem)
 - [Migrating .route() to .intercept() in Cypress](https://filiphric.com/migrating-route-to-intercept-in-cypress?utm_content=149606643&utm_medium=social&utm_source=linkedin&hss_channel=lcp-9293724)
+- [rimraf](https://www.npmjs.com/package/rimraf)
 
 ## Links  - Semana Agilizei 2.0
 - [Gist cypress-schema.json](https://gist.github.com/samlucax/2b31d4438496f731a033bf57357abd0a)
