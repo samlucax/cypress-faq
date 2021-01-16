@@ -34,3 +34,11 @@ cy.get('campo').type('texto do campo', { delay: tempo})
 "cypress:run:develop": "cypress run --config baseUrl=",
 - URL develop
     "cypress:run:master": "cypress run --config baseUrl="
+    
+--------------------------------------------------------------------------    
+### Problema
+- Como gerar relatório de cobertura de teste com Cypress
+
+### Resolução
+- Podemos usar o @cypress/code-coverage   
+- Temos uma aula expecificamente sobre isso no módulo 4. #06 "Cobertura de código usando os testes de UI"
