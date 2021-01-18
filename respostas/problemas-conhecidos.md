@@ -42,3 +42,10 @@ cy.get('campo').type('texto do campo', { delay: tempo})
 ### Resolução
 - Podemos usar o @cypress/code-coverage   
 - Temos uma aula expecificamente sobre isso no módulo 4. #06 "Cobertura de código usando os testes de UI"
+
+--------------------------------------------------------------------------    
+### Problema
+Selecionar um determinado valor de uma lista com valor mínimo e valor máximo
+
+### Resolução
+cy.get('campo select').select(chance.integer({ min: 1, max: 15 }));
