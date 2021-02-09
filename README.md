@@ -25,6 +25,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/pedrohyvo/"><img src="https://avatars.githubusercontent.com/u/15241188?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Hyvo</b></sub></a><br /><a href="#content-pedrohyvo" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/quintilianonery"><img src="https://avatars.githubusercontent.com/u/48323097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Quintiliano Paquini Nery</b></sub></a><br /><a href="#content-QuintilianoNery" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/adsguilherme/"><img src="https://avatars.githubusercontent.com/u/18746557?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gscode</b></sub></a><br /><a href="#content-adsguilherme" title="Content">🖋</a></td>
   </tr>

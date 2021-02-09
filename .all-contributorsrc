@@ -6,6 +6,15 @@
   "commit": false,
   "contributors": [
     {
+      "login": "pedrohyvo",
+      "name": "Pedro Hyvo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15241188?v=4",
+      "profile": "https://www.linkedin.com/in/pedrohyvo/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
       "login": "QuintilianoNery",
       "name": "Quintiliano Paquini Nery",
       "avatar_url": "https://avatars.githubusercontent.com/u/48323097?v=4",
