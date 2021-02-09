@@ -13,7 +13,25 @@
       "contributions": [
         "content"
       ]
-    }
+    },
+    {
+      "login": "QuintilianoNery",
+      "name": "Quintiliano Paquini Nery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48323097?v=4",
+      "profile": "http://www.linkedin.com/in/quintilianonery",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "adsguilherme",
+      "name": "gscode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18746557?v=4",
+      "profile": "https://www.linkedin.com/in/adsguilherme/",
+      "contributions": [
+        "content"
+      ]
+     }
   ],
   "contributorsPerLine": 7,
   "projectName": "cypress-faq",
