@@ -32,4 +32,4 @@ configurarData() {
   }
 
   Data randômica que foi gerada:
-  ![data que foi formatada inserida no respectivo campo](https://github.com/adsguilherme/cypress-faq/blob/main/src/assets/data-ramdomica-formatada.png)
+  ![data que foi formatada inserida no respectivo campo](https://github.com/szabo01/cypress-faq/blob/main/src/assets/data-ramdomica-formatada.png)
