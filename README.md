@@ -1,6 +1,6 @@
 # cypress-faq
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Um guia com as principais perguntas (e respostas) sobre o Cypress
 
@@ -28,6 +28,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.linkedin.com/in/pedrohyvo/"><img src="https://avatars.githubusercontent.com/u/15241188?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Hyvo</b></sub></a><br /><a href="#content-pedrohyvo" title="Content">🖋</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/quintilianonery"><img src="https://avatars.githubusercontent.com/u/48323097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Quintiliano Paquini Nery</b></sub></a><br /><a href="#content-QuintilianoNery" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/adsguilherme/"><img src="https://avatars.githubusercontent.com/u/18746557?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gscode</b></sub></a><br /><a href="#content-adsguilherme" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/szabo01"><img src="https://avatars.githubusercontent.com/u/15263776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>szabo01</b></sub></a><br /><a href="#content-szabo01" title="Content">🖋</a></td>
   </tr>
 </table>
 
