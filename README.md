@@ -2,9 +2,21 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamlucax%2Fcypress-faq&count_bg=%23FBCA16&title_bg=%232C2C2C&icon=skyliner.svg&icon_color=%23FBCA16&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Um guia com as principais perguntas (e respostas) sobre o Cypress
 
-## Respostas
+## Perguntas frequentes sobre Cypress
+
+Tradução da documentação de perguntas frequentes do Cypress.
+
+- [Usando o Cypress]()
+- [Perguntas gerais](faq/perguntas-gerais.md)
+- [Dashboard]()
+- [Empresa]()
+
+## Respostas e Soluções alternativas
 
 - [Exemplo de resposta](respostas/exemplo.md)
 - [Como decodificar um JWT pelo cypress](respostas/decode-jwt-cypress.md)
@@ -12,9 +24,6 @@ Um guia com as principais perguntas (e respostas) sobre o Cypress
 - [Cypress não reconhece o reference types cypress](respostas/nao-reconhece-reference-types.md)
 - [Problemas conhecidos](/respostas/problemas-conhecidos.md)
 - [Links úteis](/respostas/links-uteis.md)
-
-
-## Backlog perguntas
 
 ## Contributors ✨
 
