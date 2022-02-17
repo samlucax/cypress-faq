@@ -49,3 +49,11 @@ Selecionar um determinado valor de uma lista com valor mínimo e valor máximo
 
 ### Resolução
 cy.get('campo select').select(chance.integer({ min: 1, max: 15 }));
+
+--------------------------------------------------------------------------    
+### Problema
+Executar o mesmo testes várias vezes para provar que ele funciona, ou para testar o funcionamento de requisições multiplas
+
+### Resolução
+Podemos usar no cypress o seguinte laço de repetição: Cypress._.times(2, () => {}), onde existe o valor 2 que é o número de vezes que o teste será executado, este podendo ser alterado.
+
